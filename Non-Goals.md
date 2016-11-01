@@ -10,7 +10,7 @@ Specifically, Portier will not:
 
 *   __Integrate with Facebook__: People do not naturally think of their Facebook accounts as email addresses, while Portier is fundamentally driven by the notion of email address as identity. As such, direct integration with Facebook does not make sense for Portier. Websites may, of course, offer Facebook Connect as an authentication option alongside Portier.
 
-*   __Be a Single Sign-On service__: Though Portier could be useful when build an SSO system, it is not itself an SSO system.
+*   __Be a Single Sign-On service__: Though Portier could be useful when building an SSO system, it is not itself an SSO system.
 
 *   __Remember multiple identities__: Portier only verifies email addresses. It doesn't remember those addresses or make claims about associations between multiple addresses.
 
